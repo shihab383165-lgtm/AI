@@ -1,0 +1,6 @@
+{
+  "name": "YESMIN AI",
+  "description": "Futuristic AI Girlfriend and Personal Jarvis Assistant with Gemini Live Voice, Coding Agent, Native Apps & Actions, and Customizable Companion Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
